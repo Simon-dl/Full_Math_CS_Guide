@@ -3,6 +3,8 @@
 
 
 # Intro:
+   This course assumes you know litterally nothing about math and computer science, and also assumes you want to become a great mathmaician and computer scientist. To get started just go to the math and computer science sections down below, the rest of the intro is how this guide came to be so if that sounds boring just skip it.
+
    Having seen and taken a lot of courses online for self studying now, I can confidently say most suck. Mainly speaking of MOOCs here, most I have seen are too verbose (to me) while lacking in practical applications, they start at too much of an entry level and don’t go too far in depth to be useful. They also seem to hang around beginner level which makes it hard wondering where to go to advance. 
 
    So I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. However long this takes will be up to you and your schedule, I have no timeframes.
@@ -18,7 +20,7 @@
    [MIRI](https://intelligence.org/research-guide/)
    
     
-   All are worth checking out for more options / other choices of books.
+   All are worth checking out for more options / other choices of books / other tangental fields of knowledge. 
    
    /sci/ and MIRI being the most helpful.
    
