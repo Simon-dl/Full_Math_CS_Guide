@@ -106,13 +106,13 @@ If you have been out of school for a while I highly suggest going to Kahn Academ
 # Comp-Sci
    **How to go through compsci:**
         
-   Linearly focus on the C++ course to data structures and then algorithms. Once you have taken the C++ course and learned the data structures, take both a python course to learn syntax and how computers work courses. Then read the algorithms book and implement them in C++ and Python (when done with the python syntax). 
+   Linearly focus on the C++ course to data structures and then algorithms. Once you have taken the C++ course and learned the data structures, take both a python course to learn syntax and the how computers work courses. Then read the algorithms book and implement them in C++ and Python. 
 
    Most of what is available for you to learn in computer science will be bottlenecked by your understanding of math, so do put in a good amount of your study time (however long you set for yourself) there.
 
-   Once you have made it a good way through how to prove it you can start reading theory of computation, you can read it before, just be prepared for some math.
+   Once you understand proofs you can start reading theory of computation, you can read it before, just be prepared for some new looking math.
 
-   Once you have past linear algebra and multivariate calc you can start information theory.
+   Once you have past linear algebra and multivariate calc you can start information theory. Then on ML and AI which I will be adding soon.
 
         
    **Required:**
