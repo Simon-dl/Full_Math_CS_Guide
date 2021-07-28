@@ -18,7 +18,7 @@ Intro:
    All are worth checking out for more options / other choices of books, /sci/ and MIRI being the most helpful.
     
     
-#Math:
+**Math**:
     How to go through math:
     
    Start with proofs, set theory, and precalc at the same time.
