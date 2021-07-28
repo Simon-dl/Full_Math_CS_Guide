@@ -3,19 +3,35 @@
 
 
 # Intro:
-   Having seen a lot of courses online for self studying now, I can confidently say most suck. Mainly speaking of MOOCs here, most I have seen are too verbose (to me) while lacking in practical applications, they start at too much of an entry level and don’t go too far in depth to be useful. They also seem to hang around beginner level which makes it hard wondering where to go to advance. 
+   Having seen and taken a lot of courses online for self studying now, I can confidently say most suck. Mainly speaking of MOOCs here, most I have seen are too verbose (to me) while lacking in practical applications, they start at too much of an entry level and don’t go too far in depth to be useful. They also seem to hang around beginner level which makes it hard wondering where to go to advance. 
 
-   So I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. 
+   So I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. However long this takes will be up to you and your schedule, I have no timeframes.
 
-   I did try my best to keep costs low and look for books with widespread availability. These books are not free, but costs should be lower than $400 for everything.
+   I did try my best to keep costs low and look for books with widespread availability. These books are not free, but will for sure cost less than a college education.
 
    I gutted these guides to make this one, 
 
-   /sci/Wiki
-   Open Source University
-   MIRI
+   [/sci/ Wiki](https://4chan-science.fandom.com/wiki/Mathematics)
+   
+   [Open Source University](https://github.com/ossu/computer-science)
+   
+   [MIRI](https://intelligence.org/research-guide/)
+   
     
-   All are worth checking out for more options / other choices of books, /sci/ and MIRI being the most helpful.
+   All are worth checking out for more options / other choices of books.
+   
+   /sci/ and MIRI being the most helpful.
+   
+# General tips:
+
+   
+   Buy older editions of the book, usually they are MUCH cheaper and are not missing too much, some are worth it for the new addition. Use your discretion. 
+      
+   Don't worry about doing all the problems in a text book, just select a few to do and move on.
+      
+   Set yourself a goal for X amount of work a day. 20 pages a day will get a 500 page textbook done in under a month! consistancy is key.
+   
+   Don't worry if it's hard to study at first, think of your brain as a muscle that gets stronger the more you train it. Just keep trying and be realistically consistant.
     
     
 # Math:
@@ -45,7 +61,7 @@ If you have been out of school for a while I highly suggest going to Kahn Academ
 
 **Intro Set theory**
         
-        Elements of Set Theory by Enderton
+    Elements of Set Theory by Enderton
 
 **Calc Single Varite (also known as calc 1 & 2):**
 
@@ -101,7 +117,7 @@ Moving forward:
 
 **Start off learning C++**
 
-    https://www.learncpp.com/
+   [C++](https://www.learncpp.com/)
 
 **Data structures**
 
