@@ -97,14 +97,14 @@ If you have been out of school for a while I highly suggest going to Kahn Academ
     Zorich's Mathematical Analysis I & II
     
 
-Moving forward:
+**Moving forward**:
     If you just can’t get enough math the next best areas to explore would most likely be number theory, abstract algebra to group theory, and random signals and noise.
     
     
 # Comp-Sci
    **How to go through compsci:**
         
-   Linearly focus on the C++ course to data structures and then algorithms. Once you have taken the C++ course and learned the data structures, take a python course to learn syntax. You should also implement what you learn in the algorithms book into python as well. 
+   Linearly focus on the C++ course to data structures and then algorithms. Once you have taken the C++ course and learned the data structures, take both a python course to learn syntax and how computers work courses. Then read the algorithms book and implement them in C++ and Python (when done with the python syntax). 
 
    Most of what is available for you to learn in computer science will be bottlenecked by your understanding of math, so do put in a good amount of your study time (however long you set for yourself) there.
 
@@ -152,11 +152,4 @@ Todo: find an actually good python course
 
 -----------------------------------------------------------------------------------------------------------------------------------------
     
-todo:
-    -Better Intro
-    -Add in ML focused things like data cleaning, SQL, Pytorch / Tensorflow. 
-    -complete cs list in general
-    -add useful tips, schedules, ideas
-    -Make it look cleaner.
-
 V.01
