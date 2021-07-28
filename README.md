@@ -53,9 +53,11 @@
    **Required:**
 
 **Pre-Calculus**
-If you have been out of school for a while I highly suggest going to Kahn Academy, starting at algebra 1 or further back if you need it, and working your way up through pre-calculus. It will make your life much easier than just diving into calc. 
+If you have been out of school for a while I highly suggest going to [Kahn Academy](https://www.khanacademy.org/math), starting at algebra 1 or further back if you need it, and working your way up through pre-calculus. It will make your life much easier than just diving into calc (which I did and it didn't work well because I didn't have a good foundation). 
 
-   -tip: don’t watch the videos, they are too long, just do the test problems on the side and learn what your supposed to do if you get the problems wrong.
+      -tip: don’t watch the videos, they are too long, just do the test problems on the side and learn what your supposed to do if you get the problems wrong.
+      its also useful to think about why what your learning is useful and try thinking about how you can apply it real life.
+   
 
 **Proofs:**
 
