@@ -1,13 +1,18 @@
-todo:
+# Todo general:
     
     -Better Intro
-    
-    -Add in ML focused things like data cleaning, SQL, Pytorch / Tensorflow. 
-    
     -complete cs list in general
-    
     -add useful tips, schedules, ideas
-    
     -Make it look cleaner.
-    
     -add memes
+    
+# Math
+
+# CS
+
+# ML 
+
+    -find good Numpy tutoral
+    -find good Matplot + seaborn tutorial
+    -find good paper reading tutorial
+    -find good datacleaning tutorial
