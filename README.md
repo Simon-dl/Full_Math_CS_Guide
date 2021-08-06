@@ -154,6 +154,29 @@ Todo: find an actually good python course
  
     Information Theory (Dover Books on Mathematics) by Ash
 
------------------------------------------------------------------------------------------------------------------------------------------
-    
-V.01
+
+
+
+# Machine / Deep Learning:
+  **Once you have gone through multivarite calc, linear algebra, probability, c++, and know python syntax you can start ML.**
+  It would be helpful to have worked through a PDE book and know some information theory to understand the math in these courses.
+  
+  [Andrew Ng's Machine Learning course](https://www.coursera.org/learn/machine-learning?=&page=1)
+  is useful starting point for terminology, but do the exercises in Python and not Octave. 
+  
+  Then move on to FastAi or Deeplearningbook
+  
+  FastAi is newer but less rigorous with mathmatics, deeplearning is older but looked more rigourous with mathmatics.
+  
+
+   [FastAI](https://www.fast.ai/)
+      
+   [Deeplearningbook](https://www.deeplearningbook.org/)
+   
+
+   **-Useful datascience websites** 
+
+   [Kaggle](https://www.kaggle.com) is a great place for datasets and competitions, their courses however are painfully shallow. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------    
+V.02
