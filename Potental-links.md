@@ -6,6 +6,8 @@
 
 [Advanced Linear Algebra with Python](https://github.com/fastai/numerical-linear-algebra)
 
+[Teach yourself computer science](https://teachyourselfcs.com/)
+
 # Deep Learning
 [FastAI](https://www.fast.ai/) 
 
