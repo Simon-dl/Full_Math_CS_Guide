@@ -7,12 +7,17 @@
 [Advanced Linear Algebra with Python](https://github.com/fastai/numerical-linear-algebra)
 
 # Deep Learning
-[FastAI](https://www.fast.ai/)
+[FastAI](https://www.fast.ai/) 
 
 [deeplearningbook](https://www.deeplearningbook.org/)
 
 [reading papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
+[AI at Berkeley](http://ai.berkeley.edu/home.html)
+
+[OG Andrew NG ML course](https://see.stanford.edu/Course/CS229)
+
+[Linear algebra and learning from data - Strang 2019](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
 Random paper links (unchecked)
 
