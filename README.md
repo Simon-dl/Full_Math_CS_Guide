@@ -3,7 +3,7 @@
 
 
 # Intro:
-   This course assumes you know literally nothing about math and computer science, and also assumes you want to become a great mathematician and computer scientist. To get started just go to the math and computer science sections down below, There's an intro for each section.
+   This course assumes you know literally nothing about math and computer science, and also assumes you want to become a great mathematician and computer scientist. To get started just go to the math and computer science sections down below, there is an intro for each section.
 
    I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. However long this takes will be up to you and your schedule, I have no timeframes. 
 
