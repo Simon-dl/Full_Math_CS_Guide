@@ -41,9 +41,11 @@
 # Math:
    **How to go through math:**
    
-   Start with proofs, set theory, and precalc at the same time.
+   Start with Pre-Calc and Proofs.
        
-   Then go through calc and probability at the same time.
+   Then go through Calc vol 1 and finish proofs.
+   
+   Then do Calc vol 2 and probability at the same time.
 
    Then do applied linear algebra, first PDE book, and information theory in the ML section if you are planning on going that route.
 
@@ -75,14 +77,6 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
     
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-**Intro Set theory**
-       
- Cornerstone of mathematics along with proofs, will show up many many times.
- 
-    Elements of Set Theory by Enderton
-      
- --------------------------------------------------------------------------------------------------------------------------------------------------
  
 **Calculus**
 
