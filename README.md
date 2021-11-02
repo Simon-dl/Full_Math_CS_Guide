@@ -66,17 +66,6 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
    
    
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Proofs:**
-
-   Proofs are used everywhere in mathematics to literally prove what is possible and impossible,
-   it will come up very often in these books so it is vital to know how to read and make your own proofs.
-
-
-    How to Prove It: A Structured Approach by Velleman
-    
---------------------------------------------------------------------------------------------------------------------------------------------------
-
  
 **Calculus**
 
@@ -113,7 +102,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
    The study of randomness and probably is useful for everything in life since we live in an uncertain world.
    Implemented into ML systems it gives rise to the impressive pattern matching we see in things like GPT-3.
 
-    Probability and statistics Book by Morris H. DeGroot
+    Mathematical Statistics with Applications 7th Edition by Dennis Wackerly 
     
  --------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -168,16 +157,8 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 **Learning Python**
 
    The nice thing about learning one programming language is that learning another is basically just finding out what you can or can't do.
-   That being said the learning python book is exhaustive, it will teach you many things,
-   but after learning from the C++ site just skim the syntax and look at any other chapters that interest you. I also linked a more brief site to learn syntax from, and a style guide for best python practices (from google).
-
-    Learning Python, 5th Edition by Mark Lutz
-
-    Or
    
-    https://learnxinyminutes.com/docs/python/
-
-   [Style Guide](https://google.github.io/styleguide/pyguide.html)
+   [A Whirlwind Tour of Python](https://s3-us-west-2.amazonaws.com/python-notes/a-whirlwind-tour-of-python-2.pdf)
     
    Python is the main programming language for data science and ML/AI, it is very important you know your way around it.
    if you wish to stick to traditional CS and only code in c++ you don't have to learn it.
