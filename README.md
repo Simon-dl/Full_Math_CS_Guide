@@ -3,13 +3,13 @@
 
 
 # Intro:
-   This course assumes you know literally nothing about math and computer science, and also assumes you want to become a great mathematician and computer scientist. To get started just go to the math and computer science sections down below, there is an intro for each section.
+   This course assumes you know literally nothing about math and computer science, and also assumes you want to become a great mathematician and computer scientist. To get started just go to the math and computer science sections down below; there is an intro for each section.
 
-   I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. However long this takes will be up to you and your schedule, I have no timeframes. 
+   I spent this year gathering the best courses and books I could find, shortening the list to what I think are only the necessities, and now I’m publishing it here. The goal of this guide is to become a competent mathematician and computer scientist as fast as possible while leaving nothing out. However long this takes will be up to you and your schedule; I have no timeframes. 
 
    I did try my best to keep costs low and look for books with widespread availability. These books are not free, but will for sure cost less than a college education.
 
-   I gutted these guides to make this one,
+   I gutted these guides to make this one;
 
    [/sci/ Wiki](https://4chan-science.fandom.com/wiki/Mathematics)
    
@@ -25,12 +25,12 @@
 # General tips:
 
    
-   Buy older editions of the book, usually they are MUCH cheaper and are not missing too much, some are worth it for the new addition. Use your discretion.
+   Buy older editions of the book, usually they are MUCH cheaper and are not missing too much, although some are worth it for the new addition. Use your discretion.
       
    Don't worry about doing all the problems in a text book, just select a few to do and move on.
    
-   You don't need to know everything in a book or course usually, 
-   if something seems extraneous in a book you can try skipping it and coming back to it if needed. Use your discretion. 
+   You don't need to know everything in a book or course usually. 
+   If something seems extraneous in a book you can try skipping it and coming back to it if needed. Use your discretion. 
       
    Set yourself a goal for X amount of work a day. 10 pages a day will get a 500 page textbook done in under two months! Consistency is key.
    
@@ -41,13 +41,13 @@
 # Math:
    **How to go through math:**
    
-   Start with Pre-Calc and Proofs.
+   Start with Pre-Calc
        
-   Then go through Calc vol 1 and finish proofs.
+   Then go through Calc vol 1.
    
-   Then do Calc vol 2 and probability at the same time.
+   Then do Calc vol 2, Applied Linear Algebra, and Applied Statistics at the same time.
 
-   Then do applied linear algebra, first PDE book, and information theory in the ML section if you are planning on going that route.
+   First PDE (Partial Differential Equations) book, and information theory in the Machine Learning section if you are planning on going that route.
 
    Finish with the last PDE book.
 
@@ -57,12 +57,12 @@
    **Required:**
 
 **Pre-Calculus**
-If you have been out of school for a while I highly suggest going to [Kahn Academy](https://www.khanacademy.org/math), starting at algebra 1 or further back if you need it, and working your way up through pre-calculus. It will make your life much easier than just diving into calc (which I did and it didn't work well because I didn't have a good foundation).
+If you have been out of school for a while I highly suggest going to [Kahn Academy](https://www.khanacademy.org/math), starting at algebra 1 or further back if you need it, and working your way up through pre-calculus. It will make your life much easier than just diving into calc (which I did and it didn't work well, because I didn't have a good foundation).
 
 
-    Don’t watch the videos, they are too long, 
-    just do the test problems on the side and learn what your supposed to do if you get the problems wrong.
-    its also good to think about why what your learning is useful and try thinking about how you can apply it real life.
+    Don’t watch the videos, they are too long.
+    Just do the test problems on the side and learn what you're supposed to do if you get the problems wrong.
+    Don't go for perfection, getting 3 out of 4 problems right and moving on to the next sub-unit is fine. Do the unit tests if you feel like it.
    
    
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -89,8 +89,8 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
 **Applied Linear Algebra:**
 
-   Linear algebra gives amazing tools to make solving complex problems easier,
-   a good chunk of computer research relies on linear algebra and it essecially the cornerstone of ML along with Probability.
+   Linear algebra gives great tools for working with large amounts of data.
+   A good chunk of computer research relies on linear algebra and it is essentially the cornerstone of ML along with Probability.
 
     Linear Algebra and Its Applications by Strang
     
@@ -99,7 +99,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
 **Probability and Statistics:**
 
-   The study of randomness and probably is useful for everything in life since we live in an uncertain world.
+   The study of randomness and probability is useful for everything in life since we live in an uncertain world.
    Implemented into ML systems it gives rise to the impressive pattern matching we see in things like GPT-3.
 
     Mathematical Statistics with Applications 7th Edition by Dennis Wackerly 
@@ -109,7 +109,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
 **Partial Differential Equations (PDE):**
 
-   PDE's are used to in CS for optimization and ML for algorithms, there are many useful PDE in other fields as well.
+   PDE's are used in CS for optimization and ML for algorithms, it has many uses in other fields as well.
 
   Intro to PDE's
 
@@ -127,14 +127,14 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
    
 
 **Moving forward**:
-    If you just can’t get enough math the next best areas to explore would most likely be abstract algebra to group theory, then random signals and noise.
+    If you just can’t get enough math, the next best areas to explore would most likely be abstract algebra to group theory, then random signals and noise.
    
    
    
 # Computer Science:
    **How to go through comp-sci:**
        
-   Learn coding from the C++ website while reading combinatorics and graph theory. Then start working through the data structures and algorithms book while also learning python syntax. Read theory of computionation and systems design, then move on to Traditional CS or ML.
+   Learn coding from the C++ website while reading combinatorics and graph theory. Then start working through the data structures and algorithms book while also learning python syntax. Read theory of computation and systems design, then move on to Traditional CS or ML.
 
    Most of what is available for you to learn in computer science will be bottlenecked by your understanding of math, so do put in a good amount of your study time (however long you set for yourself) there, combinatorics and graph theory included.
 
@@ -143,9 +143,11 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
 **Start off learning C++**
 
-   The best entry into coding I have found so far. Every chapter is well explained and concise,
+   The best entry into coding I have found so far. Every chapter is well-explained and concise.
    It has a nice balance between exercises and learning, 
    showcases best practices for the industry and is useful for beginners and experienced coders.
+   
+   Go up through chapter 12 then start on python programming if wanting to do ML.
 
 
    [C++](https://www.learncpp.com/)
@@ -160,14 +162,14 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
    
    [A Whirlwind Tour of Python](https://s3-us-west-2.amazonaws.com/python-notes/a-whirlwind-tour-of-python-2.pdf)
     
-   Python is the main programming language for data science and ML/AI, it is very important you know your way around it.
-   if you wish to stick to traditional CS and only code in c++ you don't have to learn it.
+   Python is the main programming language for data science and ML/AI. It is very important that you know your way around it.
+   If you wish to stick to traditional CS and only code in c++ you don't have to learn it.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
        
 **Algorithms and Data structures**
 
-   A good introduction into data structures and algorithms using the c++ language. Data Structures and algorithms are used to make programs fast which also            make them useful. While ML / AI has their own algorithms it’s useful to understand algorithm analysis and how to manipulate data. 
+   A good introduction into data structures and algorithms using the c++ language. Data structures and algorithms are used to make programs fast which also            make them useful. While ML / AI has their own algorithms it’s useful to understand algorithm analysis and how to manipulate data. 
 
     Algorithms in C++ Parts 1-5: Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms by Sedgewick
 
@@ -177,8 +179,8 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
 **Combinatorics and Graph Theory**
 
-   Combinatorics and Graph theory are the main types of math used in computer science, 
-   most algorithms and ways to manipulate data came from the insights found in those fields.
+   Combinatorics and Graph theory are the main types of math used in computer science. 
+   Most algorithms and ways to manipulate data come from the insights found in those fields.
 
   Combinatorics
     
@@ -219,7 +221,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
    Or 
     
-   For people going the Traditional CS path who need more comprehensive systems design knowledge.:
+   For people going the Traditional CS path who need more comprehensive systems design knowledge:
 
     Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann 
     
@@ -233,7 +235,7 @@ Not required for Machine Learning. While I won’t spend too much time on this s
 
 **How computers work**
 
-   Knowing a bit about computer architecture and OS systems seems interesting, while they are both specialties of their own and mastery of them is   
+   Knowing a bit about computer architecture and OS systems seems interesting, While they are both specialties of their own and mastery of them is   
    a long road, having a look into how they work isn’t harmful.
    
     https://www.coursera.org/learn/build-a-computer
@@ -245,7 +247,7 @@ Not required for Machine Learning. While I won’t spend too much time on this s
 
 **Software Engineer Interview Guide**
 
-   Amazing guide for somebody who wants to work a software Engineer jobs. Goes over how to prepare, algorithms to look at, common questions,
+   Amazing guide for somebody who wants to get a software engineer job. Goes over how to prepare, algorithms to look at, common questions,
    timelines, where to go next. Highly recommended.
 
     https://www.interviews.school/
@@ -263,7 +265,7 @@ Not required for Machine Learning. While I won’t spend too much time on this s
    Use the interview guidebook to get an idea of how to get into companies. 
    
    There is no set path from there, the rest is up to you to figure what sub-area to be in and how to make your projects work through many hours of trial and error.
-   But I hope this guide helped you become well prepared for that, best of luck with future projects!
+   But I hope this guide helped you become well prepared for that. Best of luck with future projects!
    
     
   --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -290,7 +292,7 @@ Not required for Machine Learning. While I won’t spend too much time on this s
   
   
   **Information Theory**
-  Information Theory is designed to answer the question of how data is transferred system to system without losing quality. 
+  Information Theory is designed to answer the question of how data is transferred system-to-system without losing quality. 
   It is also useful for knowing how data can be manipulated in ML systems without losing its quality as well.
  
     Information Theory (Dover Books on Mathematics) by Ash
@@ -300,7 +302,7 @@ Not required for Machine Learning. While I won’t spend too much time on this s
 
 **Projects**
 
-After getting caught up in machine / deep learning you should (will need to) work on some projects before you are able to be seen as hirable. You should decide what you want to do and focus on a sub area, NLP? Computer vision? Then get some data sets and work to make a project that seems interesting to you. I will be putting good websites for datasets down below, at the top is kaggle which has good datasets and also offers competitions from companys (with money prizes). I would go there first.  
+After getting caught up in machine / deep learning you should (will need to) work on some projects before you are able to be seen as hirable. You should decide what you want to do and focus on a sub area; NLP? Computer vision? Then get some data sets and work to make a project that seems interesting to you. I will be putting good websites for datasets down below; at the top is Kaggle which has good datasets and also offers competitions from companies (with money prizes). I would go there first.  
 
    --------------------------------------------------------------------------------------------------------------------------------------------------
 
