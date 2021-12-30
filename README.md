@@ -18,9 +18,13 @@
    [MIRI](https://intelligence.org/research-guide/)
    
     
-   All are worth checking out for more options / other choices of books / other tangential fields of knowledge.
-   
-   /sci/ and MIRI being the most helpful.
+   All are worth checking out for more options / other choices of books / other tangential fields of knowledge. /sci/ being the most helpful.
+
+   Other useful ideas for studying are in this [study guide](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
+
+   Don't get lost finding the perfect guide or book or course. You can look occasionally but if you spend more time looking at courses than you do studying you are just distracting youself.
+
+   I also intent for this to a very alive document, changing to get better resources and better reflect the best way to become competent in the ML field. I don't want this to be an abandonded guide that becomes less helpful as time goes on.
    
 # General tips:
 
@@ -40,21 +44,20 @@
     
 # Math:
    **How to go through math:**
-   
    Start with Pre-Calc
        
    Then go through Calc vol 1.
    
    Then do Calc vol 2, Applied Linear Algebra, and Applied Statistics at the same time.
 
-   First PDE (Partial Differential Equations) book, and information theory in the Machine Learning section if you are planning on going that route.
-
-   Finish with the last PDE book.
+   PDE (Partial Differential Equations) book, and information theory in the Machine Learning section if you are planning on going that route.
 
 
+   In some sections I found both books and good online courses that help add to the material.
+   I found that the online material has more hand holding practice problem which is very helpful, and lectures by professors which are also somewhat helpful. If there is both videos and books, I would read a portion of the book, then also do the corresponding amount of lecture and problems.
+   The sections won't match and the book will be much more indepth than the videos, but don't worry it will all come around. However what has worked for me might not for you, as always you yourself will need to find the path of least resistance than still brings competency that works for you, which will take time. 
 
 
-   **Required:**
 
 **Pre-Calculus**
 If you have been out of school for a while I highly suggest going to [Kahn Academy](https://www.khanacademy.org/math), starting at algebra 1 or further back if you need it, and working your way up through pre-calculus. It will make your life much easier than just diving into calc (which I did and it didn't work well, because I didn't have a good foundation).
@@ -62,7 +65,8 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
     Don’t watch the videos, they are too long.
     Just do the test problems on the side and learn what you're supposed to do if you get the problems wrong.
-    Don't go for perfection, getting 3 out of 4 problems right and moving on to the next sub-unit is fine. Do the unit tests if you feel like it.
+    Don't go for perfection, getting 3 out of 4 problems right and moving on to the next sub-unit is fine. 
+    Do the unit tests if you feel like it.
    
    
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -73,16 +77,31 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
  The tools given in these books  also gives you the ability to go into probability theory and linear algebra.
       
 
-   Calc Single Varite (also known as calc 1 & 2):
+   Calc Single Variable (also known as calc 1 & 2):
 
+   Book:
+   
+      Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra by Apostol
 
-    Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra by Apostol
-    
+   Online:
+   
+   [Differentition](https://www.edx.org/course/calculus-1a-differentiation?index=product&queryID=682318a5a8a8865de6e2f473f5d5a961&position=3)
+
+   [Integration](https://www.edx.org/course/calculus-1b-integration?index=product&queryID=78bba3add81064bca5e4085a161d3544&position=4)
 
    Multivariate (calc 3):
 
-   
+   Book:
+    
     Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability by Apostol
+
+   Online:
+   
+   [Multivarite differentiation](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives?index=product&queryID=78bba3add81064bca5e4085a161d3544&position=3)
+
+   
+   Sadly MIT only ever made a part 1 for multivarite calc.
+    
     
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -100,10 +119,16 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 **Probability and Statistics:**
 
    The study of randomness and probability is useful for everything in life since we live in an uncertain world.
-   Implemented into ML systems it gives rise to the impressive pattern matching we see in things like GPT-3.
 
+   Book:
     Mathematical Statistics with Applications 7th Edition by Dennis Wackerly 
+
+   Online:
     
+   [Probability](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives?index=product&queryID=78bba3add81064bca5e4085a161d3544&position=3)
+
+   [Statistics](https://www.edx.org/course/fundamentals-of-statistics?index=product&queryID=7b134640e9aa2b1cfac816b1b605ef54&position=2)
+   
  --------------------------------------------------------------------------------------------------------------------------------------------------
     
 
@@ -117,24 +142,19 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
     Applied Partial Differential Equations: With Fourier Series and Boundary Value Problems by Haberman
     
        
-  Rigorous PDE's   
-   
-   
-    Partial Differential Equations by Evans
-    
     
 --------------------------------------------------------------------------------------------------------------------------------------------------
    
 
 **Moving forward**:
-    If you just can’t get enough math, the next best areas to explore would most likely be abstract algebra to group theory, then random signals and noise.
+    If you just can’t get enough math, the next best areas to explore would most likely be abstract algebra to group theory, and [Convex Optimizations](https://see.stanford.edu/Course/EE364A). Plus any other areas of that that interest you in the other guides at the top. 
    
    
    
 # Computer Science:
    **How to go through comp-sci:**
        
-   Learn coding from the C++ website while reading combinatorics and graph theory. Then start working through the data structures and algorithms book while also learning python syntax. Read theory of computation and systems design, then move on to Traditional CS or ML.
+   Learn coding from the C++ website while reading combinatorics and graph theory. Then start working through the data structures and algorithms book while also learning python syntax. Read theory of computation and systems design, then move on to ML.
 
    Most of what is available for you to learn in computer science will be bottlenecked by your understanding of math, so do put in a good amount of your study time (however long you set for yourself) there, combinatorics and graph theory included.
 
@@ -169,7 +189,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
        
 **Algorithms and Data structures**
 
-   A good introduction into data structures and algorithms using the c++ language. Data structures and algorithms are used to make programs fast which also            make them useful. While ML / AI has their own algorithms it’s useful to understand algorithm analysis and how to manipulate data. 
+   A good introduction into data structures and algorithms using the c++ language. Data structures and algorithms are used to make programs fast which also make them useful. While ML / AI has their own algorithms it’s useful to understand algorithm analysis and how to manipulate data. 
 
     Algorithms in C++ Parts 1-5: Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms by Sedgewick
 
@@ -215,46 +235,16 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
    Having some idea of how you create a reliable and scalable system is very useful for anybody who wants other people to use their code or data.
 
 
-   For people doing the ML path that want to know systems design basics:
+   For people that want to know systems design basics:
 
    [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview?aff=Bayg)
 
    Or 
     
-   For people going the Traditional CS path who need more comprehensive systems design knowledge:
+   For people who want more comprehensive systems design knowledge:
 
     Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann 
     
-
-
-# Traditional CS Path:
-
-Not required for Machine Learning. While I won’t spend too much time on this section as it isn’t my interest, if you wanted a job in software engineering and wanted to learn some more usual CS stuff these resources seem useful.
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-**How computers work**
-
-   Knowing a bit about computer architecture and OS systems seems interesting, While they are both specialties of their own and mastery of them is   
-   a long road, having a look into how they work isn’t harmful.
-   
-    https://www.coursera.org/learn/build-a-computer
-    https://www.coursera.org/learn/nand2tetris2
-
-
-   
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Software Engineer Interview Guide**
-
-   Amazing guide for somebody who wants to get a software engineer job. Goes over how to prepare, algorithms to look at, common questions,
-   timelines, where to go next. Highly recommended.
-
-    https://www.interviews.school/
-
-
-
-
 
 # Machine / Deep Learning:
   **Once you have gone through multivariate calc, linear algebra, probability, c++, and know python syntax you can start ML.**
@@ -263,9 +253,12 @@ Not required for Machine Learning. While I won’t spend too much time on this s
   **How to go through ML:**
    Read Python Data Science Handbook and Hands-On Machine Learning at the same time, read some popular ML papers and start working on your own projects.
    Use the interview guidebook to get an idea of how to get into companies. 
+
+   If there is an online course treat it the same as the math section and do them both simultantiously.
    
    There is no set path from there, the rest is up to you to figure what sub-area to be in and how to make your projects work through many hours of trial and error.
    But I hope this guide helped you become well prepared for that. Best of luck with future projects!
+
    
     
   --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -273,7 +266,15 @@ Not required for Machine Learning. While I won’t spend too much time on this s
  
    **Getting started in python data science**
    
+   Book:
+    
     Python Data Science Handbook: Essential Tools for Working with Data
+
+   Online:
+   
+    
+   [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
+   
      
    Gets you comfortable with IPython, NumPy, Pandas, and Matplotlib, 
    which are the main tools used to represent and manipulate data in python.  
@@ -326,4 +327,4 @@ After getting caught up in machine / deep learning you should (will need to) wor
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------    
-V.05
+V.08
