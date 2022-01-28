@@ -97,12 +97,14 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
    Online:
    
-   [Multivarite differentiation](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives?index=product&queryID=78bba3add81064bca5e4085a161d3544&position=3)
+   [Multivariate Differentiation](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives?index=product&queryID=78bba3add81064bca5e4085a161d3544&position=3)
 
    
-   Sadly MIT only ever made a part 1 for multivarite calc.
+   Sadly MIT has only made part 1 for multivarite calc on their edX platform so far. 
+   
+   MIT does offer multivarite integration with their open courseware linked below, you can just skip differentiation if you did the edX course (which I recommend doing). Multivariate Integration will come up in probability and statistics, so make sure you know it. 
     
-    
+   [Multivariate Integration](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
