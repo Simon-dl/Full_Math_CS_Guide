@@ -150,7 +150,7 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
 
    The study of randomness and probability is useful for everything in life since we live in an uncertain world.
    
-   I recommend doing the MITx courses if they overlap with your timeline, use the book otherwise, don't try to the do both online courses at once.
+   I recommend doing the MITx courses if they overlap with your timeline, use the book otherwise but then **go back to the MITx courses when they are available**, they cover much more material that is vital.
 
    Book:
    
@@ -160,41 +160,6 @@ If you have been out of school for a while I highly suggest going to [Kahn Acade
     
     https://www.edx.org/micromasters/mitx-statistics-and-data-science
    
- --------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Moving forward**:
-
-The next best areas to explore would most likely be abstract algebra and [convex optimizations](https://see.stanford.edu/Course/EE364A). Plus any other areas of that that interest you in the other guides at the top, along with the books below. 
-
-
-**Partial Differential Equations (PDE):**
-
-    PDE's are used in CS for optimization and ML for algorithms, it has many uses in other fields as well.
-
-    Intro to PDE's
-
-
-    Applied Partial Differential Equations: With Fourier Series and Boundary Value Problems by Haberman
-    
- **Combinatorics and Graph Theory**
-
-    Combinatorics and Graph theory are the main types of math used in computer science. 
-    Most algorithms and ways to manipulate data come from the insights found in those fields.
-
-    Combinatorics
-        
-        Combinatorics: Topics, Techniques, Algorithms by Peter J. Cameron
-
-           
-    Graph Theory
-          
-        Graph Theory (Graduate Texts in Mathematics) 5th ed by Reinhard Diestel
-        
-  **Information Theory**
-    Information Theory is designed to answer the question of how data is transferred system-to-system without losing quality. 
-    It is also useful for knowing how data can be manipulated in ML systems without losing its quality as well.
-
-    Information Theory (Dover Books on Mathematics) by Ash
 
     
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -263,8 +228,9 @@ I personally do a 3 hours math, 1 hour programming.
    
     If it works with your schedule take these courses:
     https://www.edx.org/micromasters/mitx-statistics-and-data-science
-   
-    If you want a book:
+
+    AND read the book:
+      
     Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools,
     and Techniques to Build Intelligent Systems, 2nd Edition by Aurélien Géron
 
@@ -301,3 +267,39 @@ A future goal of mine is to update this section to include a beginner guide to p
 
 
    --------------------------------------------------------------------------------------------------------------------------------------------    
+
+**EXTRA**:
+
+For after you get done with the beginning math path. Graph theory and information theory are a must if you want to be a good computer scientist. 
+
+The next best areas to explore would most likely be abstract algebra and [convex optimizations](https://see.stanford.edu/Course/EE364A). Plus any other areas of that that interest you in the other guides at the top, along with the books below. 
+
+
+**Partial Differential Equations (PDE):**
+
+    PDE's are used in CS for optimization and ML for algorithms, it has many uses in other fields as well.
+
+    Intro to PDE's
+
+
+    Applied Partial Differential Equations: With Fourier Series and Boundary Value Problems by Haberman
+    
+ **Combinatorics and Graph Theory**
+
+    Combinatorics and Graph theory are the main types of math used in computer science. 
+    Most algorithms and ways to manipulate data come from the insights found in those fields.
+
+    Combinatorics
+        
+        Combinatorics: Topics, Techniques, Algorithms by Peter J. Cameron
+
+           
+    Graph Theory
+          
+        Graph Theory (Graduate Texts in Mathematics) 5th ed by Reinhard Diestel
+        
+  **Information Theory**
+    Information Theory is designed to answer the question of how data is transferred system-to-system without losing quality. 
+    It is also useful for knowing how data can be manipulated in ML systems without losing its quality as well.
+
+    Information Theory (Dover Books on Mathematics) by Ash
