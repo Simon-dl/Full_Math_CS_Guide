@@ -11,15 +11,13 @@
    I did try my best to keep costs low and look for books with widespread availability. These books are not free, but will for sure cost less than a college education. MIT OpenCourseWare is free, I highly recommend it too.
 
    I gutted these guides to make this one;
-
-   [/sci/ Wiki](https://4chan-science.fandom.com/wiki/Mathematics)
    
    [Open Source University](https://github.com/ossu/computer-science)
    
    [MIRI](https://intelligence.org/research-guide/)
    
     
-   All are worth checking out for more options / other choices of books / other tangential fields of knowledge. /sci/ having a large collection of other books you could use.
+   All are worth checking out for more options / other choices of books / other tangential fields of knowledge.
 
    Other useful ideas for studying are in this [study guide](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
 
@@ -61,7 +59,7 @@
    The sections won't match and the book will be much more indepth than the videos, but don't worry it will all come around. However what has worked for me might not for you, as always you yourself will need to find the path of least resistance than still brings competency that works for you, which will take time. 
 
    One last thing is that I've tried to ease more towards applied mathmatics books, which I think are difficult in their own right and cover their subjects well, but will be less heavy on proofs. 
-   I recommend you go to the /sci/ wiki if you want to more rigorous books. If you are just begining in math, just follow my recommended list.
+  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 **Pre-Calculus**
