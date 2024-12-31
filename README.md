@@ -26,6 +26,13 @@
 
 Starting at the beginning of both sections, I would recommend splitting your study time if >= 2 hours a day where 1 hour is a course from the math section and 1 hour is from the computation section. If you can only do one course at a time, go math -> computation -> math -> computation -> repeating until done. 
 
+Try to do multiple courses at once, if A is agebra and B is geometric, and C is CS61C: you Monday-Tuesday-Wednesday-Thursday-Friday schedule could look like
+
+AC -> BC -> AC -> BC -> AC 
+
+then start next week on BC and repeat.
+
+
 Your skills will be bottlenecked by your math proficiency, focus on math first
 
  **This will not be easy**, you will meet many points of frustration, just breathe, take some time and stick with it. Learning to deal with difficult problems will be one of the most important skills you will gain from all this.
@@ -34,7 +41,7 @@ You may find this taking longer than you expected, but you are trying to get goo
 
 After you get through CS61B in the software engineer series **start working on personal projects**. There is a lot of cool stuff that can be made with big models and frameworks like langchain and ollama. Working on personal AI projects even if you are not training the models will get you used to the practical AI ecosystem.  
 
-
+I have written down a lot more practical studying guidelines, you can find them here: [More study guidelines](https://nadagrad.substack.com/p/practical-self-study-tips-2025)
  
 # General tips:
 
@@ -95,7 +102,7 @@ Single Variable Calculus (also known as Calculus 1 & 2):
 
 https://math.berkeley.edu/~ogus/Math_1A/index.html     ( Calc 1)
 
-https://math.berkeley.edu/~hutching/teach/1b/                ( Calc 2)
+https://math.berkeley.edu/~hutching/teach/1b/          ( Calc 2)
 
 
 Multivariate (AKA Calculus 3):
